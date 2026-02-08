@@ -1,5 +1,5 @@
 # Credit-Risk-Assessment-Spreadsheet-Decision-Model
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Microsoft Excel / Google Sheets
 - Probability & Decision Modeling
 - Financial Risk Analysis
