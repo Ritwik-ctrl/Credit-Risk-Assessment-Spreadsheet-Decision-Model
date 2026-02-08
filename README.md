@@ -1,4 +1,9 @@
 # Credit-Risk-Assessment-Spreadsheet-Decision-Model
+## 🛠 Tools & Technologies
+- Microsoft Excel / Google Sheets
+- Probability & Decision Modeling
+- Financial Risk Analysis
+
 This spreadsheet project simulates a real-world credit risk assessment system used by banks to evaluate loan applications based on borrower profiles. 
 
 The model calculates the probability of loan default using key factors such as income level, credit history length, and past default records, and then applies expected value logic to estimate risk-adjusted profit. 
