@@ -13,3 +13,5 @@ Expected profit is derived from the loan amount and interest rate, which is then
 Based on this adjusted value, the spreadsheet automatically classifies each application as Approve, Review, or Reject, ensuring decisions are made only when the expected return outweighs the risk. 
 
 The project also analyzes overall default rates and correlations between income, credit history, and loan outcomes, helping visualize portfolio-level risk and demonstrating how financial institutions automate rational, data-driven lending decisions entirely within spreadsheets.
+
+It contains 32581 values.
